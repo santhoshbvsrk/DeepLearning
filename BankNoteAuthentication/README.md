@@ -9,4 +9,4 @@ Attribute Information:
 4. entropy of image (continuous)
 5. class (integer)
 
-NOTE: Dataset is fetched from the GitHub of "Jason Brownlee" 
+NOTE: Dataset is fetched from the GitHub of "Jason Brownlee" "https://github.com/jbrownlee/Datasets/blob/master/banknote_authentication.csv"
