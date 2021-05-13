@@ -34,7 +34,7 @@
 |Closest_Threat_Distance(km)| The closest threat to the border of the country in question.  |
 |Aircraft_Carriers_Responding| The number of aircraft carriers actively traveling towards a threat to neutralize it. |
 |Troops_Mobilized(thousands)| The number of troops that are activated and responding to the threats being the most.|
-|DEFCON_Level| A numeric scale of conflict 'seriousness' with 1 being the least serious and 5 being the most. (target variable)|
+|DEFCON_Level| A numeric scale of conflict 'seriousness' with 1 being the least serious and 5 being the most. (***target variable***)|
 |ID| An ID to aid a checker script|
 
 ## Objective
