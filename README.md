@@ -1,1 +1,1 @@
-# DeepLearning
+This project contains all Deep Learning projects w.r.t ANN (Artificial Neural Networks) & NLP (Natural Language Processing)
